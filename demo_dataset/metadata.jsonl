@@ -1,0 +1,4 @@
+{"id": "red_square", "image": "images/red_square.png", "text": "A clean red square centered on a white background."}
+{"id": "green_circle", "image": "images/green_circle.png", "text": "A green circle with sharp edges and simple composition."}
+{"id": "blue_triangle", "image": "images/blue_triangle.png", "text": "A blue triangle on white, useful for a toy geometry caption."}
+{"id": "blurred_noise", "image": "images/blurred_noise.png", "text": "A noisy blurry patch with little semantic value."}
